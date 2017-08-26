@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "14982986807",
+    "firebase_url": "https://wallpaper-app-ba370.firebaseio.com",
+    "project_id": "wallpaper-app-ba370",
+    "storage_bucket": "wallpaper-app-ba370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14982986807:android:dba9ad09cc2b7df1",
+        "android_client_info": {
+          "package_name": "com.videotrees.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14982986807-2aveomnv4evn34ssiq7m207l5egad9cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnmPgn_Sy7UOirVxsfRWILalPC0VtCuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

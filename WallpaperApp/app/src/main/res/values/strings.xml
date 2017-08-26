@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Wallpaper App</string>
+    <string name="SET_WALLPAPER">SET WALLPAPER</string>
+    <string name="toast_wallpaper_set">Wallpaper updated!</string>
+    <string name="toast_wallpaper_set_failed">Sorry! Unable to set wallpaper</string>
+    <string name="no_result">Sorry no result..</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-5629170211387103/3907321935</string>
+    <string name="interstitial_full_screen">ca-app-pub-5629170211387103/9678523363</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Sport">Sport</string>
+    <string name="Nature">Nature</string>
+    <string name="Art">Art</string>
+    <string name="Earth">Earth</string>
+    <string name="Landscapes">Landscapes</string>
+    <string name="Cityscapes">Cityscapes</string>
+    <string name="Lift">Lift</string>
+    <string name="Textures">Textures</string>
+
+    <string-array name="serch_key">
+        <item>sky</item>
+        <item>grass</item>
+        <item>Cityscapes</item>
+        <item>wallpaper hd</item>
+        <item>love</item>
+        <item>Landscapes</item>
+        <item>india</item>
+        <item>god</item>
+        <item>nature</item>
+        <item>life</item>
+    </string-array>
+
+</resources>
